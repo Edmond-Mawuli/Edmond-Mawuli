@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Edmond Asoe  
 
-💻 **Aspiring Software Engineer | Full-Stack Developer in Training | Problem Solver**  
+💻 **Aspiring Software Engineer | Backend Developer in Training | Problem Solver**  
 
 Welcome to my GitHub profile! I'm passionate about **building systems end-to-end**, exploring **data and APIs**, and turning ideas into real, working applications.  
 I enjoy learning new technologies and applying them through **projects that solve real-world problems**.  
@@ -8,7 +8,7 @@ I enjoy learning new technologies and applying them through **projects that solv
 ---
 
 ## 🚀 What I'm Currently Working On
-- 🔨 Building **student management systems** and **booking platforms** using **Next.js** and **PostgreSQL**  
+- 🔨 Building **student management systems** and **booking platforms**   
 - 📚 Strengthening my foundation in **Java, Python, and JavaScript**  
 - 🌱 Exploring **Spring Boot**, **APIs**, and **systems integration**
 
@@ -18,7 +18,7 @@ I enjoy learning new technologies and applying them through **projects that solv
 - **Languages:** Python, Java, JavaScript, SQL  
 - **Frameworks:** Next.js, Django  
 - **Databases:** PostgreSQL, MySQL  
-- **Dev Tools:** Git, GitHub, Docker, VS Code  
+- **Dev Tools:** Git, GitHub, Docker.  
 - **Other Interests:** CI/CD, API security, database design  
 
 ---
